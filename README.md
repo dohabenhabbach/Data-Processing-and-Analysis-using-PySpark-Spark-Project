@@ -8,11 +8,15 @@ We have three data tables which are of type CSV. We are performing basic joins i
 
 
 # Skill used:
+
 -Spark
+
 -SQL
 
 
 # We shall perform the below analysis on our data
+
 -Get the Details of the order placed by the customer on 2014 January 1st
+
 -Compute the monthly customer Revenue
 
