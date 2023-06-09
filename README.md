@@ -9,9 +9,9 @@ We have three data tables which are of type CSV. We are performing basic joins i
 
 # Skill used:
 
--Spark
+- Spark
 
--SQL
+- SQL
 
 
 # We shall perform the below analysis on our data
